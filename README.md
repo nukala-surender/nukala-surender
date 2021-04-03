@@ -3,12 +3,16 @@
 <a href="https://linkedin.com/in/surender-nukala-6297b64b/">
   <img alt="Nukala Surendhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br/>
 
 - 🔭 I’m currently working on a community app to help other developers in preparing for technical interviews.
 - 🌱 I’m currently learning NextJS.
 - 😄 Pronouns: He/His
+<br/>
 
+[![Linkedin follow @callicoder](https://img.shields.io/badge/-Surender%20Nukala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surender-nukala-6297b64b/)](https://www.linkedin.com/in/surender-nukala-6297b64b/) &nbsp;
 
+<br/>
 
 **Languages and Tools:**  
 
@@ -60,6 +64,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Haskell.
 - 💬 Ask me about Java, Golang, System design or any tech related stuff.
 - 😄 Pronouns: He/His
+- https://img.shields.io/badge/nukala--surender-follow%20me-blue
 
 [![Twitter follow @calliCoder](https://img.shields.io/twitter/follow/callicoder?style=social)](https://twitter.com/callicoder) &nbsp;
 [![Linkedin follow @callicoder](https://img.shields.io/badge/-callicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/callicoder/)](https://www.linkedin.com/in/callicoder/) &nbsp;
