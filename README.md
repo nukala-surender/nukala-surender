@@ -7,9 +7,8 @@
 - 🔭 I’m currently working on a community app to help other developers in preparing for technical interviews.
 - 🌱 I’m currently learning NextJS.
 - 😄 Pronouns: He/His
-https://img.shields.io/badge/nukala--surender-follow%20me-blue
 
-[![Linkedin follow @nukala-surender](https://img.shields.io/badge/nukala--surender-follow%20me-blue&link=https://www.linkedin.com/in/surender-nukala-6297b64b/)](https://www.linkedin.com/in/surender-nukala-6297b64b/) &nbsp;
+
 
 **Languages and Tools:**  
 
