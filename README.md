@@ -1,7 +1,6 @@
 ### Hi there, I'm Surendhar 👋
 
 <br/>
-<br/>
 
 - 🔭 I’m currently working on a community app to help other developers in preparing for technical interviews.
 - 🌱 I’m currently learning NextJS.
