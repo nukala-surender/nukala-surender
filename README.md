@@ -7,15 +7,16 @@
 - 🔭 I’m currently working on a community app to help other developers in preparing for technical interviews.
 - 🌱 I’m currently learning NextJS.
 - 😄 Pronouns: He/His
+https://img.shields.io/badge/nukala--surender-follow%20me-blue
 
 [![Linkedin follow @nukala-surender](https://img.shields.io/badge/nukala--surender-follow%20me-blue&link=https://www.linkedin.com/in/surender-nukala-6297b64b/)](https://www.linkedin.com/in/surender-nukala-6297b64b/) &nbsp;
 
 **Languages and Tools:**  
 
-<a href="https://github.com/callicoder">
+<a href="https://github.com/nukala-surender">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukala-surender&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
 </a>
-<a href="https://github.com/callicoder">
+<a href="https://github.com/nukala-surender">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nukala-surender&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
 </a>
 
