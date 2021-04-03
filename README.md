@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Surendhar 👋
+
+<a href="https://linkedin.com/in/surender-nukala-6297b64b/">
+  <img alt="Nukala Surendhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+- 🔭 I’m currently working on a community app to help other developers in preparing for technical interviews.
+- 🌱 I’m currently learning NextJS.
+- 😄 Pronouns: He/His
+
+[![Linkedin follow @nukala-surender](https://img.shields.io/badge/-callicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surender-nukala-6297b64b/)](https://www.linkedin.com/in/surender-nukala-6297b64b/) &nbsp;
+
+**Languages and Tools:**  
+
+<a href="https://github.com/callicoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukala-surender&theme=light&count_private=true&layout=compact" alt="Rajeev's most used languages" />
+</a>
+<a href="https://github.com/callicoder">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nukala-surender&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajeev's github stats"/>
+</a>
 
 <!--
 **nukala-surender/nukala-surender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
