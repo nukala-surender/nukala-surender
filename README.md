@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning NextJS.
 - 😄 Pronouns: He/His
 
-[![Linkedin follow @nukala-surender](https://img.shields.io/badge/-callicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surender-nukala-6297b64b/)](https://www.linkedin.com/in/surender-nukala-6297b64b/) &nbsp;
+[![Linkedin follow @nukala-surender](https://img.shields.io/badge/-nuakal-surender-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surender-nukala-6297b64b/)](https://www.linkedin.com/in/surender-nukala-6297b64b/) &nbsp;
 
 **Languages and Tools:**  
 
