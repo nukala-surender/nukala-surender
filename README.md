@@ -1,8 +1,6 @@
 ### Hi there, I'm Surendhar 👋
 
-<a href="https://linkedin.com/in/surender-nukala-6297b64b/">
-  <img alt="Nukala Surendhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<br/>
 <br/>
 
 - 🔭 I’m currently working on a community app to help other developers in preparing for technical interviews.
